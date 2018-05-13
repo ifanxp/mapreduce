@@ -122,7 +122,7 @@ public class MutCount extends Configured implements Tool {
         }
     }
 
-    public static final String INPUT_PATH = "hdfs://localhost:9000/user/ifan/test/mut-oppo-sdk-20171216.CSV";
+    public static final String INPUT_PATH = "hdfs://localhost:9000/user/ifan/test/oppo.CSV";
     public static final String OUTPUT_PATH = "hdfs://localhost:9000/user/ifan/test/output";
 
     @Override
